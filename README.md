@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0724-find-pivot-index](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 ## Hash Table
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0056-merge-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
