@@ -6,24 +6,24 @@ class Solution {
             st.push(s.charAt(i));
             continue;
         }
-       else if(st.empty()){
+        if(st.empty()){
             return false;
             // continue;
         }
-        else if(s.charAt(i)==')'&&st.peek()=='('){
+        if(s.charAt(i)==')'&&st.peek()=='('){
             st.pop();
             continue;
         }
-        else  if(s.charAt(i)==']'&&st.peek()=='['){
+          if(s.charAt(i)==']'&&st.peek()=='['){
             st.pop();
             continue;
         }
-         else if(s.charAt(i)=='}'&&st.peek()=='{'){
+          if(s.charAt(i)=='}'&&st.peek()=='{'){
             st.pop();
             continue;
-        }else{
+        }
         return false;
-              }      }
+       }
        if(!st.empty()){
      return false;  
       }
