@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0057-insert-interval) |
 | [0496-next-greater-element-i](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,9 +60,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
