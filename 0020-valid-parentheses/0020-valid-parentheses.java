@@ -10,18 +10,11 @@ class Solution {
             return false;
             // continue;
         }
-        if(s.charAt(i)==')'&&st.peek()=='('){
+        if(s.charAt(i)==')'&&st.peek()=='('||s.charAt(i)==']'&&st.peek()=='['||s.charAt(i)=='}'&&st.peek()=='{'){
             st.pop();
             continue;
         }
-          if(s.charAt(i)==']'&&st.peek()=='['){
-            st.pop();
-            continue;
-        }
-          if(s.charAt(i)=='}'&&st.peek()=='{'){
-            st.pop();
-            continue;
-        }
+        
         return false;
        }
        if(!st.empty()){
