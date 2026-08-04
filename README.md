@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
