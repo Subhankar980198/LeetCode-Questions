@@ -98,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
