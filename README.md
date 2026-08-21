@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0739-daily-temperatures) |
+| [0905-sort-array-by-parity](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,12 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0905-sort-array-by-parity](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0917-reverse-only-letters) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [0905-sort-array-by-parity](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
 | ------- |
