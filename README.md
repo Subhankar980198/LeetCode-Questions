@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0057-insert-interval) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0344-reverse-string) |
