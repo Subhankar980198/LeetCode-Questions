@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -125,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
