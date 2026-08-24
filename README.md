@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
