@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0057-insert-interval) |
+| [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0724-find-pivot-index) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0056-merge-intervals) |
+| [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
 ## Dynamic Programming
 |  |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
 ## Recursion
 |  |
@@ -140,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
