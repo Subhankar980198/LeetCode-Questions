@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
