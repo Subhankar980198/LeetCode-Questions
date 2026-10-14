@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0905-sort-array-by-parity) |
+| [1480-running-sum-of-1d-array](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/Subhankar980198/LeetCode-Questions/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
 |  |
 | ------- |
